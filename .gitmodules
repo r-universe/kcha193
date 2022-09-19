@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "infoDecompuTE"]
-	path = infoDecompuTE
-	url = https://github.com/kcha193/infodecompute
-	shallow = true
-	registered = true
 [submodule "normalr"]
 	path = normalr
 	url = https://github.com/kcha193/normalr

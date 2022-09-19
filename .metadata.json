@@ -1,9 +1,5 @@
 [
   {
-    "package": "infoDecompuTE",
-    "oncran": true
-  },
-  {
     "package": "normalr",
     "oncran": true
   }
